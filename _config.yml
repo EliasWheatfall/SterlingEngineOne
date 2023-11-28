@@ -71,6 +71,6 @@ minima:
 
 collections:
   pages          :
-    output         : true
-    permalink      : /:collection/:path/
+        output         : true
+        permalink      : /:collection/:path/
 
