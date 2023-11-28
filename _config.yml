@@ -72,5 +72,4 @@ minima:
 collections:
   pages:
     output: true
-    pages: true
 
