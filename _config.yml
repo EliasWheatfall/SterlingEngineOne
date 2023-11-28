@@ -11,6 +11,11 @@ description: >
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
+collections:
+  articles:
+    output: true
+    permalink: /:collection/:path
+    
 theme: minima
 
 # As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/). 
@@ -67,9 +72,3 @@ minima:
   #  - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
   #  - { platform: x,              user_url: "https://x.com/jekyllrb" }
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
-
-
-collections:
-  pages:
-    output: true
-
