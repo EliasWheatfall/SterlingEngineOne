@@ -1,6 +1,13 @@
 ---
 layout: post
-title: "Some articles are just so long they deserve a really long title to see if things will break well"
-categories: misc
+title: "sadadsdasdasd"
+categories: junk
+author:
+- Bart Simpson
+- Nelson Mandela Muntz
+meta: "Springfield"
 ---
-SADASDSADASD
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+
+## Some great heading (h2)
