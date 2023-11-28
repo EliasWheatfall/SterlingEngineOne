@@ -17,10 +17,6 @@ theme: minima
 # If you want to use the latest Minima version on GitHub Pages, use the following setting and 
 # add a line comment on "theme: minima" above.
 #remote_theme: jekyll/minima
-collections:
-  pages          :
-  output         : true
-  permalink      : /:collection/:path/
 
 plugins:
   - jekyll-feed
@@ -72,4 +68,9 @@ minima:
   #  - { platform: x,              user_url: "https://x.com/jekyllrb" }
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
+
+collections:
+  pages          :
+  output         : true
+  permalink      : /:collection/:path/
 
