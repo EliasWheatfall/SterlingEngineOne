@@ -22,7 +22,7 @@ theme: minima
 collections:
   pages          :
   output         : true
-  permalink      : /:collections/:path/
+  permalink      : /:collection/:path/
 
 plugins:
   - jekyll-feed
