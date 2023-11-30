@@ -1,4 +1,6 @@
 title: Sterling Engine One
+url: 'https://eliaswheatfall.github.io/' # your main domain
+baseurl: '' 
 author:
   name: GitHub User
   email: your-email@domain.com
