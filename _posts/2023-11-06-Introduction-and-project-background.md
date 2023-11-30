@@ -8,7 +8,7 @@ layout: post
 {: .center-text; .subtext}
 Figure (1): Alpha-Type Stirling Engine
 
-A Stirling engine is a type of closed-cycle heat engine that operates by cyclic compression. This system uses a regenerator, otherwise known as a heat exchanger to transfer heat from a source to the working fluid.
+A Stirling engine is a type of closed-cycle heat engine that operates by cyclic compression. Typically a Stirling engine consists of two pistons, one hot and another cold. An external heat source provides heat to the hot end. The gas alternately expands and contracts due to changes in temperature, driving the pistons, producing mechanical work. 
 
 
 ## Project Objective?
