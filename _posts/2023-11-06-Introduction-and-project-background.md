@@ -18,3 +18,4 @@ The objective of our project is to create an in-depth understanding of a Stirlin
 In our research we've found these resources to be incredibly helpful in understanding our system:
 
 [Mide Ideal Sterling Engine Calculator](https://www.mide.com/ideal-stirling-cycle-calculator)
+
