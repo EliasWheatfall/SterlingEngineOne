@@ -3,7 +3,7 @@ layout: post
 ---
 
 ## What is a Sterling Engine?
-<img src="/assets/stirling-engine.gif" alt="zigag" />
+<img src="SterlingEngineOne/assets/stirling-engine.gif" alt="zigag" />
 
 
 ####### Testing font
