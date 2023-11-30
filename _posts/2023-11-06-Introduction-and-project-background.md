@@ -6,7 +6,7 @@ layout: post
 <img src="SterlingEngineOne/assets/stirling-engine.gif" alt="zigag" />
 
 
-####### Testing font
+### Testing font
 ## What is a Sterling Engine?
 
 ## Project Objective?
