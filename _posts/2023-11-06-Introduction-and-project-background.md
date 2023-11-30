@@ -3,7 +3,8 @@ layout: post
 ---
 
 ## What is a Sterling Engine? (h2)
-![image tooltip here](/assets/Alpha_Stirling-1.webp.crdownload)
+![image tooltip here](/assets/Alpha_Stirling-1.gif)
+## TEstign font (h20)
 ## What is a Sterling Engine? (h2)
 
 ## Project Objective? (h2)
