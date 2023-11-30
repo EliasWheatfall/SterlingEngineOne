@@ -3,7 +3,7 @@ layout: post
 ---
 
 ## What is a Sterling Engine? (h2)
-<img src="{{site.baseurl | prepend: site.url}}assets/stirling-engine.gif" alt="zigzag" />
+<img src="/assets/stirling-engine.gif" alt="zigag" />
 
 
 ## TEstign font (h6)
