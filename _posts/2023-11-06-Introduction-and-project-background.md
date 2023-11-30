@@ -3,7 +3,7 @@ layout: post
 ---
 
 ## What is a Stirling Engine?
-![yay](https://eliaswheatfall.github.io/SterlingEngineOne/assets/stirling-engine.gif){: .center-image }
+![yay](https://eliaswheatfall.github.io/StirlingEngineOne/assets/stirling-engine.gif){: .center-image }
 
 {: .center-text; .subtext}
 Figure (1): Alpha-Type Stirling Engine
