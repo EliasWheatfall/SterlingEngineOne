@@ -14,6 +14,24 @@ To tackle designing this system we needed to reduce its complexity by providing 
 
 ## Analysis
 
+![A1](https://eliaswheatfall.github.io/StirlingEngineOne/assets/ODE.png){: .center-image }
+{: .center-text; .subtext}
+Figure (1): Alpha-Type Stirling Engine
+
+![A2](https://eliaswheatfall.github.io/StirlingEngineOne/assets/PvA.png){: .center-image }
+{: .center-text; .subtext}
+Figure (1): Alpha-Type Stirling Engine
+
+![A3](https://eliaswheatfall.github.io/StirlingEngineOne/assets/TLC.png){: .center-image }
+{: .center-text; .subtext}
+Figure (1): Alpha-Type Stirling Engine
+
+![A4](https://eliaswheatfall.github.io/StirlingEngineOne/assets/Goodman.png){: .center-image }
+{: .center-text; .subtext}
+Figure (1): Alpha-Type Stirling Engine
+
+
+
 ## Evaluation
 
 ## Finite Element Analysis
