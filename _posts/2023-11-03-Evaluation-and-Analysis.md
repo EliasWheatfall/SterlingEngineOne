@@ -16,8 +16,8 @@ To tackle designing this system we needed to reduce its complexity by providing 
 
 ![A1](https://eliaswheatfall.github.io/StirlingEngineOne/assets/ODE.png){: .center-image width="600" }
 
-{: .center-text subtext}
-Figure (1): Alpha-Type Stirling Engine
+
+Figure (1): Alpha-Type Stirling Engine{: .center-text subtext}
 
 
 ![A2](https://eliaswheatfall.github.io/StirlingEngineOne/assets/PvA.png){: .center-image width="600" }
