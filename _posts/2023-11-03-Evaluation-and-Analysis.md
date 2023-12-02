@@ -14,20 +14,20 @@ To tackle designing this system we needed to reduce its complexity by providing 
 
 ## Analysis
 
-![A1](https://eliaswheatfall.github.io/StirlingEngineOne/assets/ODE.png){: .center-image width="250" }
+![A1](https://eliaswheatfall.github.io/StirlingEngineOne/assets/ODE.png){: .center-image width="750" }
 
 {: .center-text .subtext}
 Figure (1): Alpha-Type Stirling Engine
 
-![A2](https://eliaswheatfall.github.io/StirlingEngineOne/assets/PvA.png){: .center-image }
+![A2](https://eliaswheatfall.github.io/StirlingEngineOne/assets/PvA.png){: .center-image width="750" }
 {: .center-text; .subtext}
 Figure (1): Alpha-Type Stirling Engine
 
-![A3](https://eliaswheatfall.github.io/StirlingEngineOne/assets/TLC.png){: .center-image }
+![A3](https://eliaswheatfall.github.io/StirlingEngineOne/assets/TLC.png){: .center-image width="750" }
 {: .center-text; .subtext}
 Figure (1): Alpha-Type Stirling Engine
 
-![A4](https://eliaswheatfall.github.io/StirlingEngineOne/assets/Goodman.png){: .center-image }
+![A4](https://eliaswheatfall.github.io/StirlingEngineOne/assets/Goodman.png){: .center-image width="750" }
 {: .center-text; .subtext}
 Figure (1): Alpha-Type Stirling Engine
 
@@ -42,41 +42,41 @@ For this project, there were three main areas of concern we wanted to address wi
 ### Fuel Tank Pressure
 
 ### Clamping Force
-![CF1](https://eliaswheatfall.github.io/StirlingEngineOne/assets/mesh_overall_flexure.jpg){: .center-image }
-{: .center-text; .subtext}
+![CF1](https://eliaswheatfall.github.io/StirlingEngineOne/assets/mesh_overall_flexure.jpg){: .center-image width="750" }
+{: .center-text subtext}
 Figure (1): Alpha-Type Stirling Engine
 
-![CF2](https://eliaswheatfall.github.io/StirlingEngineOne/assets/800N_FOS_Min.jpg){: .center-image }
-{: .center-text; .subtext}
+![CF2](https://eliaswheatfall.github.io/StirlingEngineOne/assets/800N_FOS_Min.jpg){: .center-image width="750" }
+{: .center-text subtext}
 Figure (1): Alpha-Type Stirling Engine
 
-![CF3](https://eliaswheatfall.github.io/StirlingEngineOne/assets/coldclamp_mesxh.jpg){: .center-image }
-{: .center-text; .subtext}
-Figure (1): Alpha-Type Stirling Engine
-
-
-![CF4](https://eliaswheatfall.github.io/StirlingEngineOne/assets/x550N_FOS_sus_coldclamp.jpg){: .center-image }
-{: .center-text; .subtext}
+![CF3](https://eliaswheatfall.github.io/StirlingEngineOne/assets/coldclamp_mesxh.jpg){: .center-image width="750" }
+{: .center-text subtext}
 Figure (1): Alpha-Type Stirling Engine
 
 
-![CF5](https://eliaswheatfall.github.io/StirlingEngineOne/assets/Pillow_625N_FOS.jpg){: .center-image }
-{: .center-text; .subtext}
+![CF4](https://eliaswheatfall.github.io/StirlingEngineOne/assets/x550N_FOS_sus_coldclamp.jpg){: .center-image width="750" }
+{: .center-text subtext}
 Figure (1): Alpha-Type Stirling Engine
 
 
-![CF6](https://eliaswheatfall.github.io/StirlingEngineOne/assets/Pillow_Disp_625N.jpg){: .center-image }
-{: .center-text; .subtext}
+![CF5](https://eliaswheatfall.github.io/StirlingEngineOne/assets/Pillow_625N_FOS.jpg){: .center-image width="750" }
+{: .center-text subtext}
+Figure (1): Alpha-Type Stirling Engine
+
+
+![CF6](https://eliaswheatfall.github.io/StirlingEngineOne/assets/Pillow_Disp_625N.jpg){: .center-image width="750" }
+{: .center-text subtext}
 Figure (1): Alpha-Type Stirling Engine
 
 
 ### Steady State Response
-![SS1](https://eliaswheatfall.github.io/StirlingEngineOne/assets/thermal_nocut.jpg){: .center-image }
-{: .center-text; .subtext}
+![SS1](https://eliaswheatfall.github.io/StirlingEngineOne/assets/thermal_nocut.jpg){: .center-image width="750" }
+{: .center-text subtext}
 Figure (1): Alpha-Type Stirling Engine
 
-![SS2](https://eliaswheatfall.github.io/StirlingEngineOne/assets/thermal_screenshot1.jpg){: .center-image }
-{: .center-text; .subtext}
+![SS2](https://eliaswheatfall.github.io/StirlingEngineOne/assets/thermal_screenshot1.jpg){: .center-image width="750" }
+{: .center-text subtext}
 Figure (1): Alpha-Type Stirling Engine
 
 Ethanol Burner       |                       |
