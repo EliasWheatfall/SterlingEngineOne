@@ -5,6 +5,13 @@ layout: post
 
 ## Assumptions
 
+To tackle designing this system we needed to reduce its complexity by providing assumptions and justifications. The main assumptions we made are below:
+
+- Steady heat in from the flame:
+- leakage from the piston is negligible
+- We can apply a large enough pulling force to start the system
+- Efficiency of our system is 0.3 (A typical Stirling Engine is 0.4)
+
 ## Analysis
 
 ## Evaluation
