@@ -28,12 +28,25 @@ For this project, there were three main areas of concern we wanted to address wi
 
 
 
-Title 1               | Title 2               | Title 3               | Title 4
---------------------- | --------------------- | --------------------- | ---------------------
-lorem                 | lorem ipsum           | lorem ipsum dolor     | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
+Ethanol Burner       |                       |
+--------------------- | --------------------- | 
+Air Fuel Ratio        | 9:1                   | 
+Max Flame Temperature | 1,920 (C)              | 
+Boiling Temperature   | 78.4 (C)               | 
+Specific Heat         | 8.46E+05 J/kg         | 
+Density               | 2460 J/kg             |
+Energy Density        | 3.00E+07 J/kg         |
+
+
+Burner       |                       |
+--------------------- | --------------------- | 
+Heat Input            | 500 (W)                   | 
+Burner Efficiency      | 0.5                      |
+Fuel Mass Flow Rate   | 0.0333(g/s)               | 
+
+Regenerative Cooling      |                       |
+--------------------- | --------------------- | 
+Cooling Capacity            | 28.2 (W)                   | 
 
 
 Title 1 | Title 2 | Title 3 | Title 4
