@@ -44,17 +44,24 @@ Figure (2): Engine Angular Velocity Over Time
 
 While a P-V diagram is useful for determining the work done in the system it doesn't give us an understanding of how fast the work is done, or how fast the system is oscillating. To understand this we created an ODE for the system that can be visualized in Figure (2). This figure shows that the steady-state response for the system is ~63 rad/s or 600 rpm. 
 
+To create this table the following equations were used in ODE 45: 
+
+![EQ](https://eliaswheatfall.github.io/StirlingEngineOne/assets/eq.png){: .center-image width="400" }
+
+
 
 
 ![A2](https://eliaswheatfall.github.io/StirlingEngineOne/assets/PvA.png){: .center-image width="600" }
 
-{: .center-text subtext}
-Figure (1): Alpha-Type Stirling Engine
+{: .subtext}
+Figure (1): Graph of Pressure Vs Angle
+
+Another step of our analysis was to understand the pressure our system was experiencing. The Cylinder Assembly is made from glass, so the limiting working pressure of the system is --. The graph above displays that we will experience a max pressure of 0.7 MPa, delivering a factor of safety of ---.
 
 
 ![A3](https://eliaswheatfall.github.io/StirlingEngineOne/assets/TLC.png){: .center-image width="600" }
 
-{: .center-text subtext}
+{: .subtext}
 Figure (1): Alpha-Type Stirling Engine
 
 
