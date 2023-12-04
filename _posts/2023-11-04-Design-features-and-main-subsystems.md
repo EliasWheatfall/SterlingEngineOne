@@ -62,6 +62,8 @@ The Cylinder Assembly is the shaft that performs work in the system. The cylinde
 {: .subtext}
 Figure (8): Driveshaft Assembly View
 
+The Driveshaft Assembly contains the rotary components of the system. A flywheel, shaft, and mounting components are a part of the system. To account for collisions with the shaft and Cylinder Assembly, the shaft contains an offset. THe flywheel is a COTS part that is drilled to an FN2 press fit for the shaft. Attached to the shaft are the linkages that are waterjet.
+
 ## Burner Assembly
 
 ![Burner](https://eliaswheatfall.github.io/StirlingEngineOne/assets/gascan.png){: .center-image width="600" }
@@ -69,7 +71,7 @@ Figure (8): Driveshaft Assembly View
 {: .subtext}
 Figure (9): Burner Assembly View
 
-The burner assembly is a large advancement our team has made compared to most Stirling engine assemblies. In a typical system a candle or jar containing isopropyl and rope produces a flame under the hot end. The temperature difference between the hot and cold piston is a huge limiting factor in the efficiency of a Stirling engine. To fix this we created a pressure vessel that houses our denatured  fuel. This burns much better than a candle, increasing our temperature difference. Additionally, before the fuel is burned it is wound around the cool to remove radiant heat from the hot end, increasing the pressure differential
+The burner assembly is a large advancement our team has made compared to most Stirling engine assemblies. In a typical system, a candle or jar containing isopropyl and rope produces a flame under the hot end. The temperature difference between the hot and cold piston is a huge limiting factor in the efficiency of a Stirling engine. To fix this we created a pressure vessel that houses our denatured  fuel. This burns much better than a candle, increasing our temperature difference. Additionally, before the fuel is burned it is wound around the cool to remove radiant heat from the hot end, increasing the pressure differential
 
 ## Drawings
 
