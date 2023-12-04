@@ -12,7 +12,7 @@ Figure (1): Full Assembly View CAD
 {: .subtext}
 Figure (2): Top View of Assembly
 
-Our system is comprised of four sub-assemblies. In a high-level overview, the Burner Assembly is responsible for delivering --- to the burner, which burns a flame under the cylinder assembly. This then heats the air in the Cylinder assembly, moving the displacer. This displaces hot air into the Piston Assembly. The Piston Assembly is then pressurized, in which it can perform work and drive the Driveshaft Assembly. All of the components are held together by two plates that hold everything in a rigid and elegant manor. 
+Our system is comprised of five sub-assemblies. The Burner Assembly is responsible for delivering alcohol to the burner, which burns a flame under the Piston Assembly. This then displaces the cold air in the system causing the Cylinder Assembly to pressurize. The Cylinder Assembly performs work when it strokes due to the increase in pressure. All of the components are held together by two plates in the Frame Assembly, which holds everything together rigidly and elegantly. 
 
 ## Exploded View 
 
@@ -64,33 +64,33 @@ The burner assembly is a large advancement our team has made compared to most St
 
 Here are all of the drawings for each component of the machine: 
 
-![D1](https://eliaswheatfall.github.io/StirlingEngineOne/assets/Pl-01.PNG){: .center-image width="1000" }
+![D1](https://eliaswheatfall.github.io/StirlingEngineOne/assets/Pl-01.PNG){: .center-image width="1200" }
 
-![D2](https://eliaswheatfall.github.io/StirlingEngineOne/assets/CL-03.PNG){: .center-image width="1000" }
+![D2](https://eliaswheatfall.github.io/StirlingEngineOne/assets/CL-03.PNG){: .center-image width="1200" }
 
-![D3](https://eliaswheatfall.github.io/StirlingEngineOne/assets/clock_cage_plate_back.PNG){: .center-image width="1000" }
+![D3](https://eliaswheatfall.github.io/StirlingEngineOne/assets/clock_cage_plate_back.PNG){: .center-image width="1200" }
 
-![D4](https://eliaswheatfall.github.io/StirlingEngineOne/assets/clock_cage_plate_front.PNG){: .center-image width="1000" }
+![D4](https://eliaswheatfall.github.io/StirlingEngineOne/assets/clock_cage_plate_front.PNG){: .center-image width="1200" }
 
-![D5](https://eliaswheatfall.github.io/StirlingEngineOne/assets/cold_cylinder.PNG){: .center-image width="1000" }
+![D5](https://eliaswheatfall.github.io/StirlingEngineOne/assets/cold_cylinder.PNG){: .center-image width="1200" }
 
-![D6](https://eliaswheatfall.github.io/StirlingEngineOne/assets/CY-06.PNG){: .center-image width="1000" }
+![D6](https://eliaswheatfall.github.io/StirlingEngineOne/assets/CY-06.PNG){: .center-image width="1200" }
 
-![D7](https://eliaswheatfall.github.io/StirlingEngineOne/assets/displacer.PNG){: .center-image width="1000" }
+![D7](https://eliaswheatfall.github.io/StirlingEngineOne/assets/displacer.PNG){: .center-image width="1200" }
 
-![D8](https://eliaswheatfall.github.io/StirlingEngineOne/assets/displacer_shaft.PNG){: .center-image width="1000" }
+![D8](https://eliaswheatfall.github.io/StirlingEngineOne/assets/displacer_shaft.PNG){: .center-image width="1200" }
 
-![D9](https://eliaswheatfall.github.io/StirlingEngineOne/assets/dr-02.PNG){: .center-image width="1000" }
+![D9](https://eliaswheatfall.github.io/StirlingEngineOne/assets/dr-02.PNG){: .center-image width="1200" }
 
-![D10](https://eliaswheatfall.github.io/StirlingEngineOne/assets/dr-03.PNG){: .center-image width="1000" }
+![D10](https://eliaswheatfall.github.io/StirlingEngineOne/assets/dr-03.PNG){: .center-image width="1200" }
 
-![D11](https://eliaswheatfall.github.io/StirlingEngineOne/assets/fly_wheel.PNG){: .center-image width="1000" }
+![D11](https://eliaswheatfall.github.io/StirlingEngineOne/assets/fly_wheel.PNG){: .center-image width="1200" }
 
-![D12](https://eliaswheatfall.github.io/StirlingEngineOne/assets/hot_cylinder.PNG){: .center-image width="1000" }
+![D12](https://eliaswheatfall.github.io/StirlingEngineOne/assets/hot_cylinder.PNG){: .center-image width="1200" }
 
-![D13](https://eliaswheatfall.github.io/StirlingEngineOne/assets/link_adapter.PNG){: .center-image width="1000" }
+![D13](https://eliaswheatfall.github.io/StirlingEngineOne/assets/link_adapter.PNG){: .center-image width="1200" }
 
-![D14](https://eliaswheatfall.github.io/StirlingEngineOne/assets/nozzle_clamp.PNG){: .center-image width="1000" }
+![D14](https://eliaswheatfall.github.io/StirlingEngineOne/assets/nozzle_clamp.PNG){: .center-image width="1200" }
 
-![D15](https://eliaswheatfall.github.io/StirlingEngineOne/assets/nozzle_holder.PNG){: .center-image width="1000" }
+![D15](https://eliaswheatfall.github.io/StirlingEngineOne/assets/nozzle_holder.PNG){: .center-image width="1200" }
 
