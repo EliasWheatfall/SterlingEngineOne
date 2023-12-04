@@ -16,11 +16,15 @@ Our system is comprised of five sub-assemblies. The Burner Assembly is responsib
 
 ## Exploded View 
 
-1)
-2)
-3)
-4)
-5)
+1) Assembly
+
+2) Assembly
+
+3) Assembly
+
+4) Assembly
+
+5) Assembly
 
 ## Frame Assembly
 ![Frame](https://eliaswheatfall.github.io/StirlingEngineOne/assets/frame.png){: .center-image width="600" }
@@ -38,14 +42,13 @@ The Frame Assembly consists of 3 waterjet components and 6 standoffs. The plates
 {: .subtext}
 Figure (5): Piston Assembly View
 
-The Piston Assembly consists of 7 machine components and 5 COTS components. The left side of the assembly is the hot end, which rests under the flame. The right cylinder is on the cold side. Clamped to the cold side are two flexure components that are waterjet and tapped. These components mount the assembly to the frame. A shaft is connected to a displacer internally, and on the end is a connecting point to connect to the Driveshaft Assembly. A barb is placed on the surface of the cold cylinder to connect the Piston Assembly to the Cylinder Assembly.
-
 ![P12](https://eliaswheatfall.github.io/StirlingEngineOne/assets/coldhotzoom.png){: .center-image width="600" }
 
 {: .subtext}
 Figure (6): Piston Assembly Zoomed View
 
-The Piston Assembly is the side that produces work in the system. The alternation of cold to hot air changes the pressure in the system, forcing the piston to push when there is hot air displaced. 
+The Piston Assembly consists of 7 machine components and 5 COTS components. The left side of the assembly is the hot end, which rests under the flame. The right cylinder is on the cold side. Clamped to the cold side are two flexure components that are waterjet and tapped. These components mount the assembly to the frame. A shaft is connected to a displacer internally, and on the end is a connecting point to connect to the Driveshaft Assembly. A barb is placed on the surface of the cold cylinder to connect the Piston Assembly to the Cylinder Assembly.
+
 
 ## Cylinder Assembly
 
@@ -72,6 +75,10 @@ The Driveshaft Assembly contains the rotary components of the system. A flywheel
 Figure (9): Burner Assembly View
 
 The burner assembly is a large advancement our team has made compared to most Stirling engine assemblies. In a typical system, a candle or jar containing isopropyl and rope produces a flame under the hot end. The temperature difference between the hot and cold piston is a huge limiting factor in the efficiency of a Stirling engine. To fix this we created a pressure vessel that houses our denatured  fuel. This burns much better than a candle, increasing our temperature difference. Additionally, before the fuel is burned it is wound around the cool to remove radiant heat from the hot end, increasing the pressure differential
+
+## Bill of Materials
+
+Here is a link to the materials used to complete this project: 
 
 ## Drawings
 
