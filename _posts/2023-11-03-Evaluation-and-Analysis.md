@@ -37,6 +37,8 @@ Table (1): P-V Diagram Values
 
 Based on this graph we found that the net-work being produced is 2.6 J/ cycle
 
+
+
 ![A1](https://eliaswheatfall.github.io/StirlingEngineOne/assets/ODE.png){: .center-image width="600" }
 
 {: .subtext}
@@ -47,6 +49,8 @@ While a P-V diagram is useful for determining the work done in the system it doe
 To create this table the following equations were used in ODE 45: 
 
 ![EQ](https://eliaswheatfall.github.io/StirlingEngineOne/assets/eq.png){: .center-image width="400" }
+{: .subtext}
+Figure (3): Equations for ODE45
 
 
 
@@ -54,7 +58,7 @@ To create this table the following equations were used in ODE 45:
 ![A2](https://eliaswheatfall.github.io/StirlingEngineOne/assets/PvA.png){: .center-image width="600" }
 
 {: .subtext}
-Figure (1): Graph of Pressure Vs Angle
+Figure (4): Graph of Pressure Vs Angle
 
 Another step of our analysis was to understand the pressure our system was experiencing. The Cylinder Assembly is made from glass, so the limiting working pressure of the system is --. The graph above displays that we will experience a max pressure of 0.7 MPa, delivering a factor of safety of ---.
 
@@ -62,13 +66,17 @@ Another step of our analysis was to understand the pressure our system was exper
 ![A3](https://eliaswheatfall.github.io/StirlingEngineOne/assets/TLC.png){: .center-image width="600" }
 
 {: .subtext}
-Figure (1): Alpha-Type Stirling Engine
+Figure (5): Load over Time
+
+The pressure in the system can then be translated to a force on the piston. Since Pressure = Force/Area, we can take the pressure in the system x the surface area of our Piston to extract a force shown in Figure (5).
 
 
 ![A4](https://eliaswheatfall.github.io/StirlingEngineOne/assets/Goodman.png){: .center-image width="600" }
 
-{: .center-text subtext}
-Figure (1): Alpha-Type Stirling Engine
+{: .subtext}
+Figure (1): Time-Varying load Curve
+
+After finding the force that created the pressure in our system we need to analyze if our shaft will yield due to fatigue. For this, we use a Goodman Diagram that displays our mean stress against amplitude stress. Since we are well beneath the Goodman line we expect this loading condition to be good.
 
 ## Evaluation
 
