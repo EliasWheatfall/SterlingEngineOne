@@ -16,8 +16,31 @@ To tackle designing this system we needed to reduce its complexity by providing 
 
 ![A1](https://eliaswheatfall.github.io/StirlingEngineOne/assets/ODE.png){: .center-image width="600" }
 
+{: .subtext}
+Figure (1): P-V Diagram
 
-Figure (1): Alpha-Type Stirling Engine{: .center-text subtext}
+The first step for analyzing the system was to create a P-V Diagram. This diagram gives us an understanding of how much work is produced in the system over time. To produce this graph we used the variables below:
+
+
+Variable       |           Value            |
+--------------------- | --------------------- | 
+T_Hot        | 1,700 (K)                   | 
+T_Cold       | 294 (K)              | 
+R            | 287 (J/kg-K)               | 
+C            | 2         | 
+P            | 101,325 (Pa)             |
+V1, V4       | 2.8 E-5 (m^3)         |
+V2, V3       | 1.4 E-5 (m^3)         |
+
+
+{: .subtext}
+Table (1): P-V Diagram Values
+
+![A1](https://eliaswheatfall.github.io/StirlingEngineOne/assets/ODE.png){: .center-image width="600" }
+
+{: .subtext}
+Figure (2): Engine Angular Velocity Over Time
+
 
 
 ![A2](https://eliaswheatfall.github.io/StirlingEngineOne/assets/PvA.png){: .center-image width="600" }
