@@ -18,16 +18,19 @@ Our system is comprised of four sub-assemblies. In a high-level overview, the Bu
 
 ## Frame Assembly
 ![Frame](https://eliaswheatfall.github.io/StirlingEngineOne/assets/frame.png){: .center-image width="600" }
+
 {: .subtext}
 Figure (4): Frame Assembly View
 
 ## Piston Assembly
 
 ![P11](https://eliaswheatfall.github.io/StirlingEngineOne/assets/pistonone.png){: .center-image width="600" }
+
 {: .subtext}
 Figure (5): Piston Assembly View
 
 ![P12](https://eliaswheatfall.github.io/StirlingEngineOne/assets/coldhotzoom.png){: .center-image width="600" }
+
 {: .subtext}
 Figure (6): Piston Assembly Zoomed View
 
@@ -36,6 +39,7 @@ The Piston Assembly is the side that produces work in the system. The alternatio
 ## Cylinder Assembly
 
 ![P21](https://eliaswheatfall.github.io/StirlingEngineOne/assets/pistontwo.png){: .center-image width="600" }
+
 {: .subtext}
 Figure (7): Cylinder Assembly View
 
@@ -43,12 +47,14 @@ The Cylinder Assembly contains both the hot and cold side. As the
 
 ## Driveshaft Assembly
 ![Drive](https://eliaswheatfall.github.io/StirlingEngineOne/assets/flywheel.png){: .center-image width="600" }
+
 {: .subtext}
 Figure (8): Driveshaft Assembly View
 
 ## Burner Assembly
 
 ![Burner](https://eliaswheatfall.github.io/StirlingEngineOne/assets/gascan.png){: .center-image width="600" }
+
 {: .subtext}
 Figure (9): Burner Assembly View
 
@@ -58,12 +64,12 @@ The burner assembly is a large advancement our team has made compared to most St
 
 Here are all of the drawings for each component of the machine: 
 
-![D1](https://eliaswheatfall.github.io/StirlingEngineOne/assets/pi-01.png){: .center-image width="500" }
-![D2](https://eliaswheatfall.github.io/StirlingEngineOne/assets/cl-03.png){: .center-image width="500" }
+![D1](https://eliaswheatfall.github.io/StirlingEngineOne/assets/Pl-01.PNG){: .center-image width="500" }
+![D2](https://eliaswheatfall.github.io/StirlingEngineOne/assets/CL-03.png){: .center-image width="500" }
 ![D3](https://eliaswheatfall.github.io/StirlingEngineOne/assets/clock_cage_plate_back.png){: .center-image width="500" }
 ![D4](https://eliaswheatfall.github.io/StirlingEngineOne/assets/clock_cage_plate_front.png){: .center-image width="500" }
 ![D5](https://eliaswheatfall.github.io/StirlingEngineOne/assets/cold_cylinder.png){: .center-image width="500" }
-![D6](https://eliaswheatfall.github.io/StirlingEngineOne/assets/cy-06.png){: .center-image width="500" }
+![D6](https://eliaswheatfall.github.io/StirlingEngineOne/assets/CY-06.PNG){: .center-image width="500" }
 ![D7](https://eliaswheatfall.github.io/StirlingEngineOne/assets/displacer.png){: .center-image width="500" }
 ![D8](https://eliaswheatfall.github.io/StirlingEngineOne/assets/displacer_shaft.png){: .center-image width="500" }
 ![D9](https://eliaswheatfall.github.io/StirlingEngineOne/assets/dr-02.png){: .center-image width="500" }
