@@ -4,7 +4,7 @@ layout: post
 ## System Overview
  ![Assembly](https://eliaswheatfall.github.io/StirlingEngineOne/assets/fullassembly.png){: .center-image width="600" }
 
-{: .center-text .subtext}
+{: .subtext}
 Figure (1): Stirling Engine CAD
  
 ![assemblyout](https://eliaswheatfall.github.io/StirlingEngineOne/assets/topview.png){: .center-image width="600" }
