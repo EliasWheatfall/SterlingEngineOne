@@ -54,7 +54,7 @@ The Piston Assembly is the side that produces work in the system. The alternatio
 {: .subtext}
 Figure (7): Cylinder Assembly View
 
-The Cylinder Assembly contains both the hot and cold side. As the 
+The Cylinder Assembly is the shaft that performs work in the system. The cylinder is a dampener COTS part from ----. It is connected to the Piston Assembly with a tube, allowing for heat to travel in and out of the cylinder. The cylinder is connected to the assembly by two waterjet components identical to the parts used int he Piston Assembly.
 
 ## Driveshaft Assembly
 ![Drive](https://eliaswheatfall.github.io/StirlingEngineOne/assets/flywheel.png){: .center-image width="600" }
