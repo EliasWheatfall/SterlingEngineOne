@@ -100,9 +100,9 @@ Here are all of the drawings for each component of the machine:
 
 ![D8](https://eliaswheatfall.github.io/StirlingEngineOne/assets/displacer_shaft.PNG){: .center-image width="1200" }
 
-![D9](https://eliaswheatfall.github.io/StirlingEngineOne/assets/dr-02.PNG){: .center-image width="1200" }
+![D9](https://eliaswheatfall.github.io/StirlingEngineOne/assets/DR-02.PNG){: .center-image width="1200" }
 
-![D10](https://eliaswheatfall.github.io/StirlingEngineOne/assets/dr-03.PNG){: .center-image width="1200" }
+![D10](https://eliaswheatfall.github.io/StirlingEngineOne/assets/DR-03.PNG){: .center-image width="1200" }
 
 ![D11](https://eliaswheatfall.github.io/StirlingEngineOne/assets/fly_wheel.PNG){: .center-image width="1200" }
 
