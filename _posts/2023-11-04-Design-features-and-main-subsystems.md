@@ -16,11 +16,20 @@ Our system is comprised of five sub-assemblies. The Burner Assembly is responsib
 
 ## Exploded View 
 
+1)
+2)
+3)
+4)
+5)
+
 ## Frame Assembly
 ![Frame](https://eliaswheatfall.github.io/StirlingEngineOne/assets/frame.png){: .center-image width="600" }
 
 {: .subtext}
 Figure (4): Frame Assembly View
+
+The Frame Assembly consists of 3 waterjet components and 6 standoffs. The plates provide an improvement to typical Stirling Engines as they make the assembly much more compact. The improvement also makes the system more robust, protecting internal elements from issues like falling.
+
 
 ## Piston Assembly
 
@@ -28,6 +37,8 @@ Figure (4): Frame Assembly View
 
 {: .subtext}
 Figure (5): Piston Assembly View
+
+The Piston Assembly consists of 7 machine components and 5 COTS components. The left side of the assembly is the hot end, which rests under the flame. The right cylinder is on the cold side. Clamped to the cold side are two flexure components that are waterjet and tapped. These components mount the assembly to the frame. A shaft is connected to a displacer internally, and on the end is a connecting point to connect to the Driveshaft Assembly. A barb is placed on the surface of the cold cylinder to connect the Piston Assembly to the Cylinder Assembly.
 
 ![P12](https://eliaswheatfall.github.io/StirlingEngineOne/assets/coldhotzoom.png){: .center-image width="600" }
 
