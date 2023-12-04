@@ -80,15 +80,15 @@ Here are all of the drawings for each component of the machine:
 
 ![D8](https://eliaswheatfall.github.io/StirlingEngineOne/assets/displacer_shaft.PNG){: .center-image width="1000" }
 
-![D9](https://eliaswheatfall.github.io/StirlingEngineOne/assets/dr-02.png){: .center-image width="1000" }
+![D9](https://eliaswheatfall.github.io/StirlingEngineOne/assets/dr-02.PNG){: .center-image width="1000" }
 
-![D10](https://eliaswheatfall.github.io/StirlingEngineOne/assets/dr-03.png){: .center-image width="1000" }
+![D10](https://eliaswheatfall.github.io/StirlingEngineOne/assets/dr-03.PNG){: .center-image width="1000" }
 
 ![D11](https://eliaswheatfall.github.io/StirlingEngineOne/assets/fly_wheel.PNG){: .center-image width="1000" }
 
 ![D12](https://eliaswheatfall.github.io/StirlingEngineOne/assets/hot_cylinder.PNG){: .center-image width="1000" }
 
-![D13](https://eliaswheatfall.github.io/StirlingEngineOne/assets/lank_adapter.PNG){: .center-image width="1000" }
+![D13](https://eliaswheatfall.github.io/StirlingEngineOne/assets/link_adapter.PNG){: .center-image width="1000" }
 
 ![D14](https://eliaswheatfall.github.io/StirlingEngineOne/assets/nozzle_clamp.PNG){: .center-image width="1000" }
 
