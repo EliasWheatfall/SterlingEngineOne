@@ -76,11 +76,18 @@ Figure (9): Burner Assembly View
 
 The burner assembly is a large advancement our team has made compared to most Stirling engine assemblies. In a typical system, a candle or jar containing isopropyl and rope produces a flame under the hot end. The temperature difference between the hot and cold piston is a huge limiting factor in the efficiency of a Stirling engine. To fix this we created a pressure vessel that houses our denatured  fuel. This burns much better than a candle, increasing our temperature difference. Additionally, before the fuel is burned it is wound around the cool to remove radiant heat from the hot end, increasing the pressure differential
 
-## Bill of Materials
+## Project Artifacts
 
-Here is a link to the materials used to complete this project: 
+#### Bill of Materials
+Here is a link to the Bill of MAterisl for this project:
 
-## Drawings
+It is also tabulated below:
+
+#### CAD
+Here is a link to the CAD for the project: 
+
+
+#### Drawings
 
 Here are all of the drawings for each component of the machine: 
 
