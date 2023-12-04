@@ -35,10 +35,14 @@ V2, V3       | 1.4 E-5 (m^3)         |
 {: .subtext}
 Table (1): P-V Diagram Values
 
+Based on this graph we found that the net-work being produced is 2.6 J/ cycle
+
 ![A1](https://eliaswheatfall.github.io/StirlingEngineOne/assets/ODE.png){: .center-image width="600" }
 
 {: .subtext}
 Figure (2): Engine Angular Velocity Over Time
+
+While a P-V diagram is useful for determining the work done in the system it doesn't give us an understanding of how fast the work is done, or how fast the system is oscillating. To understand this we created an ODE for the system that can be visualized in Figure (2). This figure shows that the steady-state response for the system is ~63 rad/s or 600 rpm. 
 
 
 
