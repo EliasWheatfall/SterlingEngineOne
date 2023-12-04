@@ -14,7 +14,7 @@ To tackle designing this system we needed to reduce its complexity by providing 
 
 ## Analysis
 
-![A1](https://eliaswheatfall.github.io/StirlingEngineOne/assets/ODE.png){: .center-image width="600" }
+![PV](https://eliaswheatfall.github.io/StirlingEngineOne/assets/pv.png){: .center-image width="600" }
 
 {: .subtext}
 Figure (1): P-V Diagram
@@ -31,7 +31,6 @@ C            | 2         |
 P            | 101,325 (Pa)             |
 V1, V4       | 2.8 E-5 (m^3)         |
 V2, V3       | 1.4 E-5 (m^3)         |
-
 
 {: .subtext}
 Table (1): P-V Diagram Values
