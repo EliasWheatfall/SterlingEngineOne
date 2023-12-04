@@ -57,7 +57,7 @@ The Piston Assembly consists of 7 machine components and 5 COTS components. The 
 {: .subtext}
 Figure (7): Cylinder Assembly View
 
-The Cylinder Assembly is the shaft that performs work in the system. The cylinder is a dampener COTS part from ----. It is connected to the Piston Assembly with a tube, allowing for heat to travel in and out of the cylinder. The cylinder is connected to the assembly by two waterjet components identical to the parts used int he Piston Assembly.
+The Cylinder Assembly is the shaft that performs work in the system. The cylinder is a dampener COTS part from ----. It is connected to the Piston Assembly with a tube, allowing for heat to travel in and out of the cylinder. The cylinder is connected to the assembly by two waterjet components identical to the parts used int the Piston Assembly.
 
 ## Driveshaft Assembly
 ![Drive](https://eliaswheatfall.github.io/StirlingEngineOne/assets/flywheel.png){: .center-image width="600" }
@@ -65,7 +65,7 @@ The Cylinder Assembly is the shaft that performs work in the system. The cylinde
 {: .subtext}
 Figure (8): Driveshaft Assembly View
 
-The Driveshaft Assembly contains the rotary components of the system. A flywheel, shaft, and mounting components are a part of the system. To account for collisions with the shaft and Cylinder Assembly, the shaft contains an offset. THe flywheel is a COTS part that is drilled to an FN2 press fit for the shaft. Attached to the shaft are the linkages that are waterjet.
+The Driveshaft Assembly contains the rotary components of the system. A flywheel, shaft, and mounting components are a part of the system. To account for collisions with the shaft and Cylinder Assembly, the shaft contains an offset. The flywheel is a COTS part that is drilled to an FN2 press fit for the shaft. Attached to the shaft are the linkages that are waterjet.
 
 ## Burner Assembly
 
@@ -78,18 +78,15 @@ The burner assembly is a large advancement our team has made compared to most St
 
 ## Project Artifacts
 
-#### Bill of Materials
-Here is a link to the Bill of MAterisl for this project:
+#### Bill of Materials:
+Here is a link to the Bill of Materials for this project:
 
 It is also tabulated below:
 
-#### CAD
+#### CAD:
 Here is a link to the CAD for the project: 
 
-
-#### Drawings
-
-Here are all of the drawings for each component of the machine: 
+#### Drawings:
 
 ![D1](https://eliaswheatfall.github.io/StirlingEngineOne/assets/Pl-01.PNG){: .center-image width="1200" }
 
