@@ -120,19 +120,19 @@ Figure (9): Cylinder Clamp Flexure Mesh
 {: .subtext}
 Figure (10): Cylinder Clamp Flexure Analysis
 
-#### Flywheel Clamp Flexure
+#### Pillow Block Flexure
 
 ![CF5](https://eliaswheatfall.github.io/StirlingEngineOne/assets/Pillow_625N_FOS.jpg){: .center-image width="400" }
 
 {: .subtext}
-Figure (11): Cylinder Clamp Flexure FOS
+Figure (11): Pillow Block Flexure FOS
 
 ![CF6](https://eliaswheatfall.github.io/StirlingEngineOne/assets/Pillow_Disp_625N.jpg){: .center-image width="400" }
 
 {: .subtext}
 Figure (12): Cylinder Clamp Flexure Deformation
 
-The flexure clamp used to mount the cylinders was analyzed with a similar FEA study. Like the other flexure FEA, the mesh was refined in areas of high stress, particularly the filet near the bolt head. With 550N of clamping force, the FOS for yielding is above 1.0 throughout the flexure for an 800N clamping force, so the flexure will not fail due to excessive clamping force.
+The flexure for the pillow block was similarly analyzed. With the 625N bolt force, the FOS is above 3.0 throughout most of the part. There are some stress concentrations in the bolt hole itself that are primarily due to the coarseness of the mesh and the boundary conditions, but even in these concentrations the FOS is always above 1.0
 
 ### Steady State Response
 ![SS1](https://eliaswheatfall.github.io/StirlingEngineOne/assets/thermal_nocut.jpg){: .center-image width="600" }
