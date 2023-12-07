@@ -1,6 +1,3 @@
--------------------
-
-------------------
 ## Conclusions
 ![ENGINEEEE](https://eliaswheatfall.github.io/StirlingEngineOne/assets/EngineW.png){: .center-image width="600" }
 
