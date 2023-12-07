@@ -19,7 +19,7 @@ We aim to develop a robust Stirling Engine that can operate for 30 minutes conti
 ## Resources?
 In our research we've found these resources to be incredibly helpful in understanding our system:
 
-[Mide Ideal Sterling Engine Calculator](https://www.mide.com/ideal-stirling-cycle-calculator)
+[Mide Ideal Stirling Engine Calculator](https://www.mide.com/ideal-stirling-cycle-calculator)
 
 [Engineering ToolBox](https://www.engineeringtoolbox.com/friction-coefficients-d_778.html)
 
