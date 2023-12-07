@@ -155,6 +155,8 @@ Specific Heat         | 8.46E+05 J/kg         |
 Density               | 2460 J/kg             |
 Energy Density        | 3.00E+07 J/kg         |
 
+{: .subtext}
+Table (2): Burner Variables
 
 Burner       |                       |
 --------------------- | --------------------- | 
@@ -162,8 +164,14 @@ Heat Input            | 500 (W)                   |
 Burner Efficiency      | 0.5                      |
 Fuel Mass Flow Rate   | 0.0333(g/s)               | 
 
+{: .subtext}
+Table (3): Burner Charachteristics
+
 Regenerative Cooling      |                       |
 --------------------- | --------------------- | 
 Cooling Capacity            | 28.2 (W)                   | 
+
+{: .subtext}
+Table (4): Cooling Capacity
 
 
