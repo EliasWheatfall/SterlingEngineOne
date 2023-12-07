@@ -8,7 +8,7 @@ layout: post
 To tackle designing this system we needed to reduce its complexity by providing assumptions and justifications. The main assumptions we made are below:
 
 - Steady heat in from the flame:
-- leakage from the piston is negligible
+- Leakage from the piston is negligible
 - We can apply a large enough pulling force to start the system  
 - The efficiency of our system is 0.3 (A typical Stirling Engine is 0.4)
 
@@ -49,6 +49,7 @@ While a P-V diagram is useful for determining the work done in the system it doe
 To create this table the following equations were used in ODE 45: 
 
 ![EQ](https://eliaswheatfall.github.io/StirlingEngineOne/assets/eq.png){: .center-image width="400" }
+
 {: .subtext}
 Figure (3): Equations for ODE45
 
@@ -89,48 +90,62 @@ For this project, there were three main areas of concern we wanted to address wi
 ### Clamping Force
 ![CF1](https://eliaswheatfall.github.io/StirlingEngineOne/assets/mesh_overall_flexure.jpg){: .center-image width="600" }
 
-{: .center-text subtext}
-Figure (1): Alpha-Type Stirling Engine
+{: .subtext}
+Figure (7): Flexure Mesh
+
+To analyze the flexure shaft clamp, we did a static FEA study to find the clamping force for which the shaft cannot slip and the clamp does not break. To do this, a contact interaction with friction (coefficient of friction = 0.6 for steel on aluminum from https://www.engineeringtoolbox.com/friction-coefficients-d_778.html) was specified between the clamp and the shaft, one end of the flexure was fixed, and the bolt clamping force was applied to a split-surface on the flexure (corresponding to the area where the head of the bolt makes contact). A torque of 0.478 Nm was also applied to the shaft, as this is an upper bound estimate for the torque applied to the shaft in a worst-case scenario. If the shaft does not slip, its displacement is the same as the displacement of the clamp holding it. If the shaft slips, it will have a non-zero displacement relative to the surrounding clamp.
+
+To get sufficiently accurate results without a prohibitive run time, the mesh used was coarse overall with refinement regions in areas of high stress. The mesh included several refinement zones utilizing increasingly smaller minimum mesh size. The filet near the bolt head mount was of particular concern, so was refined to a very fine mesh.
+
 
 ![CF2](https://eliaswheatfall.github.io/StirlingEngineOne/assets/800N_FOS_Min.jpg){: .center-image width="600" }
 
-{: .center-text subtext}
-Figure (1): Alpha-Type Stirling Engine
+{: .subtext}
+Figure (8): Alpha-Type Stirling Engine
+
+Under 625N of clamping force, the displacement of the shaft is non-zero relative to the rest of the flexure, meaning that the rod slipped and 625N is insufficient clamping force. Under 800N of clamping force, the rod had the same displacement as the surrounding flexure, meaning that it did not slip, and 800N is sufficient force. 800N is less than the 6-32 bolt’s proof strength. Using the equation for bolt clamping force to torque, 
+T=F*D*K
+with K = 0.2, and diameter corresponding to a 6-32 machine screw, we calculate a torque on the bolt of 0.478 N*m is required to get 800N of clamping force.
 
 ![CF3](https://eliaswheatfall.github.io/StirlingEngineOne/assets/coldclamp_mesxh.jpg){: .center-image width="600" }
 
-{: .center-text subtext}
-Figure (1): Alpha-Type Stirling Engine
+{: .subtext}
+Figure (9): Alpha-Type Stirling Engine
 
+The FOS for yielding is above 1.0 throughout the flexure for an 800N clamping force, so the flexure will not fail due to excessive clamping force.
 
 ![CF4](https://eliaswheatfall.github.io/StirlingEngineOne/assets/x550N_FOS_sus_coldclamp.jpg){: .center-image width="600" }
 
-{: .center-text subtext}
-Figure (1): Alpha-Type Stirling Engine
+{: .subtext}
+Figure (10): Alpha-Type Stirling Engine
 
 
 ![CF5](https://eliaswheatfall.github.io/StirlingEngineOne/assets/Pillow_625N_FOS.jpg){: .center-image width="600" }
 
-{: .center-text subtext}
-Figure (1): Alpha-Type Stirling Engine
+{: .subtext}
+Figure (11): Alpha-Type Stirling Engine
 
 
 ![CF6](https://eliaswheatfall.github.io/StirlingEngineOne/assets/Pillow_Disp_625N.jpg){: .center-image width="600" }
 
-{: .center-text subtext}
-Figure (1): Alpha-Type Stirling Engine
+{: .subtext}
+Figure (12): Alpha-Type Stirling Engine
+
+
+
+
 
 
 ### Steady State Response
 ![SS1](https://eliaswheatfall.github.io/StirlingEngineOne/assets/thermal_nocut.jpg){: .center-image width="600" }
 
-{: .center-text subtext}
-Figure (1): Alpha-Type Stirling Engine
+{: .subtext}
+Figure (13): Alpha-Type Stirling Engine
 
 ![SS2](https://eliaswheatfall.github.io/StirlingEngineOne/assets/thermal_screenshot1.jpg){: .center-image width="600" }
 
-{: .center-text subtext}
-Figure (1): Alpha-Type Stirling Engine
+{: .subtext}
+Figure (14): Alpha-Type Stirling Engine
 
 Ethanol Burner       |                       |
 --------------------- | --------------------- | 
