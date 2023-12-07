@@ -14,7 +14,7 @@ Link: https://youtu.be/8Q8wmc120b8?si=0FZivhqVNn2Rww6h
 Our Stirling Engine operates successfully! Once started, the engine continues to spin in a self-sustaining way, as shown in the video.
 
 ## Future Work
-In the future, we aim to make iterations on this design with two improvements:
+In the future, we would aim to make iterations on this design with two improvements:
 
 #### Storing Power
 While we have designed and fabricated an incredibly nice-looking assembly, the next step for this project would be to store energy from the engine. Having the ability to charge a device, such as a phone, gives the engine functionality.
