@@ -100,9 +100,6 @@ The burner assembly is an advancement our team has made compared to most Stirlin
 Here is a link to the Bill of Materials for this project:
 https://docs.google.com/spreadsheets/d/1f6yGIeGwG_2lpEjNT2we2WIuqnexJr-XKY0X0sI5-ZE/edit#gid=0
 
-#### CAD:
-Here is a link to the CAD for the project: 
-
 #### Drawings:
 
 ![D1](https://eliaswheatfall.github.io/StirlingEngineOne/assets/Pl-01.PNG){: .center-image width="1200" }
