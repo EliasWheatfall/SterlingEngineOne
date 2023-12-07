@@ -11,7 +11,7 @@ Video (1): Engine Video
 
 Link: https://youtu.be/8Q8wmc120b8?si=0FZivhqVNn2Rww6h
 
-Our Stirling Engine successfully operated. Once started the engine would continue to spin, as shown in the video.
+Our Stirling Engine operates successfully! Once started, the engine continues to spin in a self-sustaining way, as shown in the video.
 
 ## Future Work
 In the future, we aim to make iterations on this design with two improvements:
