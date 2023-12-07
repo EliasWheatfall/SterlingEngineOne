@@ -47,7 +47,7 @@ Figure (6): Cylinder Assembly Zoomed View
 ![CylinderEx](https://eliaswheatfall.github.io/StirlingEngineOne/assets/Exploded_Views_Page_4.png){: .center-image width="600" }
 
 {: .subtext}
-Figure (7): Cylliner Assembly Exploded View
+Figure (7): Cylinder Assembly Exploded View
 
 The Piston Assembly consists of 7 machine components and 5 COTS components. The left side of the assembly is the hot end, which rests under the flame. The right cylinder is on the cold side. Clamped to the cold side are two flexure components that are waterjet and tapped. These components mount the assembly to the frame. A shaft is connected to a displacer internally, and on the end is a connecting point to connect to the Driveshaft Assembly. A barb is placed on the surface of the cold cylinder to connect the Piston Assembly to the Cylinder Assembly.
 
@@ -62,7 +62,7 @@ Figure (8): Piston Assembly View
 ![Frame](https://eliaswheatfall.github.io/StirlingEngineOne/assets/Exploded_Views_Page_1.png){: .center-image width="600" }
 
 {: .subtext}
-Figure (9): Piston Assembly View
+Figure (9): Piston Assembly Exploded View
 
 The Cylinder Assembly is the shaft that performs work in the system. The cylinder is a dampener COTS part from ----. It is connected to the Piston Assembly with a tube, allowing for heat to travel in and out of the cylinder. The cylinder is connected to the assembly by two waterjet components identical to the parts used into the Piston Assembly.
 
@@ -75,7 +75,7 @@ Figure (10): Driveshaft Assembly View
 ![Frame](https://eliaswheatfall.github.io/StirlingEngineOne/assets/Exploded_Views_Page_4.png){: .center-image width="600" }
 
 {: .subtext}
-Figure (11): Frame Assembly View
+Figure (11): Driveshaft Exploded View
 
 The Driveshaft Assembly contains the rotary components of the system. A flywheel, shaft, and mounting components are a part of the system. To account for collisions with the shaft and Cylinder Assembly, the shaft contains an offset. The flywheel is a COTS part that is drilled to an FN2 press fit for the shaft. Attached to the shaft are the linkages that are waterjet.
 
@@ -98,8 +98,7 @@ The burner assembly is a large advancement our team has made compared to most St
 
 #### Bill of Materials:
 Here is a link to the Bill of Materials for this project:
-
-It is also tabulated below:
+https://docs.google.com/spreadsheets/d/1f6yGIeGwG_2lpEjNT2we2WIuqnexJr-XKY0X0sI5-ZE/edit#gid=0
 
 #### CAD:
 Here is a link to the CAD for the project: 
