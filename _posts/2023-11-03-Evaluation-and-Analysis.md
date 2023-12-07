@@ -120,6 +120,9 @@ Figure (9): Cylinder Clamp Flexure Mesh
 {: .subtext}
 Figure (10): Cylinder Clamp Flexure Analysis
 
+The flexure clamp used to mount the cylinders was analyzed with a similar FEA study. Like the other flexure FEA, the mesh was refined in areas of high stress, particularly the filet near the bolt head. With 550N of clamping force, the FOS for yielding is above 1.0 throughout the flexure for an 800N clamping force, so the flexure will not fail due to excessive clamping force.
+
+
 #### Pillow Block Flexure
 
 ![CF5](https://eliaswheatfall.github.io/StirlingEngineOne/assets/Pillow_625N_FOS.jpg){: .center-image width="400" }
@@ -138,12 +141,10 @@ The flexure for the pillow block was similarly analyzed. With the 625N bolt forc
 ![SS1](https://eliaswheatfall.github.io/StirlingEngineOne/assets/thermal_nocut.jpg){: .center-image width="600" }
 
 {: .subtext}
-Figure (13): Alpha-Type Stirling Engine
+Figure (13): Cylinder Steady State Temperature
 
-![SS2](https://eliaswheatfall.github.io/StirlingEngineOne/assets/thermal_screenshot1.jpg){: .center-image width="600" }
+To ensure that no part of the heated cylinder exceeds its melting temperature, a thermal FEA study was conducted. The hot end had a convection boundary condition with h=25 for forced convection and ambient temperature = 1647 Kelvin (temperature of denatured alcohol flame), the rest of the assembly has a surface convection boundary condition with ambient temperature of 293.15 Kelvin (room temperature). All bonded components have a thermal resistance of 0 to represent good thermal contact.
 
-{: .subtext}
-Figure (14): Alpha-Type Stirling Engine
 
 Ethanol Burner       |                       |
 --------------------- | --------------------- | 
