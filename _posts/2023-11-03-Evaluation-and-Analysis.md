@@ -46,12 +46,12 @@ Figure (2): Engine Angular Velocity Over Time
 
 While a P-V diagram is useful for determining the work done in the system it doesn't give us an understanding of how fast the work is done, or how fast the system is oscillating. To understand this we created an ODE for the system that can be visualized in Figure (2). This figure shows that the steady-state response for the system is ~63 rad/s or 600 rpm. 
 
-To create this table the following equations were used in ODE 45: 
+To create this table the following equations were used in a fourth order Runge-Kutta ODE solver: 
 
 ![EQ](https://eliaswheatfall.github.io/StirlingEngineOne/assets/eq.png){: .center-image width="400" }
 
 {: .subtext}
-Figure (3): Equations for ODE45
+Figure (3): Equations for fourth order Runge-Kutta ODE solver
 
 
 
@@ -61,7 +61,7 @@ Figure (3): Equations for ODE45
 {: .subtext}
 Figure (4): Graph of Pressure Vs Angle
 
-Another step of our analysis was to understand the pressure our system was experiencing. The Cylinder Assembly is made from glass, so the limiting working pressure of the system is --. The graph above displays that we will experience a max pressure of 0.7 MPa, delivering a factor of safety of ---.
+Another step of our analysis was to understand the pressure our system was experiencing. The Cylinder Assembly is made from glass, so the limiting working pressure of the system is 100psi. The graph above displays that our maximum pressure will be under that limit.
 
 
 ![A3](https://eliaswheatfall.github.io/StirlingEngineOne/assets/TLC.png){: .center-image width="600" }
@@ -77,7 +77,7 @@ The pressure in the system can then be translated to a force on the piston. Sinc
 {: .subtext}
 Figure (1): Time-Varying load Curve
 
-After finding the force that created the pressure in our system we need to analyze if our shaft will yield due to fatigue. For this, we use a Goodman Diagram that displays our mean stress against amplitude stress. Since we are well beneath the Goodman line we expect this loading condition to be good.
+After finding the force that created the pressure in our system we need to analyze if our shaft will yield due to fatigue. For this, we use a Goodman Diagram that displays our mean stress against amplitude stress. Since we are well beneath the Goodman line we expect this loading condition to be far from failure.
 
 ## Evaluation
 
@@ -110,6 +110,14 @@ with K = 0.2, and diameter corresponding to a 6-32 machine screw, we calculate a
 
 The FOS for yielding is above 1.0 throughout the flexure for an 800N clamping force, so the flexure will not fail due to excessive clamping force.
 
+### Steady State Response
+![SS1](https://eliaswheatfall.github.io/StirlingEngineOne/assets/thermal_nocut.jpg){: .center-image width="600" }
+
+{: .subtext}
+Figure (13): Cylinder Steady State Temperature
+
+To ensure that no part of the heated cylinder exceeds its melting temperature, a thermal FEA study was conducted. The hot end had a convection boundary condition with h=25 for forced convection and ambient temperature = 1647 Kelvin (temperature of denatured alcohol flame), the rest of the assembly has a surface convection boundary condition with ambient temperature of 293.15 Kelvin (room temperature). All bonded components have a thermal resistance of 0 to represent good thermal contact.
+
 #### Cylinder Clamp Flexure
 ![CF3](https://eliaswheatfall.github.io/StirlingEngineOne/assets/coldclamp_mesxh.jpg){: .center-image width="400" }
 
@@ -136,14 +144,6 @@ Figure (11): Pillow Block Flexure FOS
 Figure (12): Cylinder Clamp Flexure Deformation
 
 The flexure for the pillow block was similarly analyzed. With the 625N bolt force, the FOS is above 3.0 throughout most of the part. There are some stress concentrations in the bolt hole itself that are primarily due to the coarseness of the mesh and the boundary conditions, but even in these concentrations the FOS is always above 1.0
-
-### Steady State Response
-![SS1](https://eliaswheatfall.github.io/StirlingEngineOne/assets/thermal_nocut.jpg){: .center-image width="600" }
-
-{: .subtext}
-Figure (13): Cylinder Steady State Temperature
-
-To ensure that no part of the heated cylinder exceeds its melting temperature, a thermal FEA study was conducted. The hot end had a convection boundary condition with h=25 for forced convection and ambient temperature = 1647 Kelvin (temperature of denatured alcohol flame), the rest of the assembly has a surface convection boundary condition with ambient temperature of 293.15 Kelvin (room temperature). All bonded components have a thermal resistance of 0 to represent good thermal contact.
 
 
 Ethanol Burner       |                       |
