@@ -14,56 +14,68 @@ Figure (2): Top View of Assembly
 
 Our system is comprised of five sub-assemblies. The Burner Assembly is responsible for delivering alcohol to the burner, which burns a flame under the Piston Assembly. This then displaces the cold air in the system causing the Cylinder Assembly to pressurize. The Cylinder Assembly performs work when it strokes due to the increase in pressure. All of the components are held together by two plates in the Frame Assembly, which holds everything together rigidly and elegantly. 
 
-## Exploded View 
-
-1) Assembly
-
-2) Assembly
-
-3) Assembly
-
-4) Assembly
-
-5) Assembly
 
 ## Frame Assembly
 ![Frame](https://eliaswheatfall.github.io/StirlingEngineOne/assets/frame.png){: .center-image width="600" }
 
 {: .subtext}
-Figure (4): Frame Assembly View
+Figure (3): Frame Assembly View
+
+
+![FrameEx](https://eliaswheatfall.github.io/StirlingEngineOne/assets/Exploded_Views_Page_2.png){: .center-image width="600" }
+
+{: .subtext}
+Figure (4): Frame Exploded View
+
 
 The Frame Assembly consists of 3 waterjet components and 6 standoffs. The plates provide an improvement to typical Stirling Engines as they make the assembly much more compact. The improvement also makes the system more robust, protecting internal elements from issues like falling.
 
 
-## Piston Assembly
+## Cylinder Assembly
 
 ![P11](https://eliaswheatfall.github.io/StirlingEngineOne/assets/pistonone.png){: .center-image width="600" }
 
 {: .subtext}
-Figure (5): Piston Assembly View
+Figure (5): Cylinder Assembly View
+
 
 ![P12](https://eliaswheatfall.github.io/StirlingEngineOne/assets/coldhotzoom.png){: .center-image width="600" }
 
 {: .subtext}
-Figure (6): Piston Assembly Zoomed View
+Figure (6): Cylinder Assembly Zoomed View
+
+![CylinderEx](https://eliaswheatfall.github.io/StirlingEngineOne/assets/Exploded_Views_Page_4.png){: .center-image width="600" }
+
+{: .subtext}
+Figure (7): Cylliner Assembly Exploded View
 
 The Piston Assembly consists of 7 machine components and 5 COTS components. The left side of the assembly is the hot end, which rests under the flame. The right cylinder is on the cold side. Clamped to the cold side are two flexure components that are waterjet and tapped. These components mount the assembly to the frame. A shaft is connected to a displacer internally, and on the end is a connecting point to connect to the Driveshaft Assembly. A barb is placed on the surface of the cold cylinder to connect the Piston Assembly to the Cylinder Assembly.
 
 
-## Cylinder Assembly
+## Piston Assembly
 
 ![P21](https://eliaswheatfall.github.io/StirlingEngineOne/assets/pistontwo.png){: .center-image width="600" }
 
 {: .subtext}
-Figure (7): Cylinder Assembly View
+Figure (8): Piston Assembly View
 
-The Cylinder Assembly is the shaft that performs work in the system. The cylinder is a dampener COTS part from ----. It is connected to the Piston Assembly with a tube, allowing for heat to travel in and out of the cylinder. The cylinder is connected to the assembly by two waterjet components identical to the parts used int the Piston Assembly.
+![Frame](https://eliaswheatfall.github.io/StirlingEngineOne/assets/Exploded_Views_Page_1.png){: .center-image width="600" }
+
+{: .subtext}
+Figure (9): Piston Assembly View
+
+The Cylinder Assembly is the shaft that performs work in the system. The cylinder is a dampener COTS part from ----. It is connected to the Piston Assembly with a tube, allowing for heat to travel in and out of the cylinder. The cylinder is connected to the assembly by two waterjet components identical to the parts used into the Piston Assembly.
 
 ## Driveshaft Assembly
 ![Drive](https://eliaswheatfall.github.io/StirlingEngineOne/assets/flywheel.png){: .center-image width="600" }
 
 {: .subtext}
-Figure (8): Driveshaft Assembly View
+Figure (10): Driveshaft Assembly View
+
+![Frame](https://eliaswheatfall.github.io/StirlingEngineOne/assets/Exploded_Views_Page_4.png){: .center-image width="600" }
+
+{: .subtext}
+Figure (11): Frame Assembly View
 
 The Driveshaft Assembly contains the rotary components of the system. A flywheel, shaft, and mounting components are a part of the system. To account for collisions with the shaft and Cylinder Assembly, the shaft contains an offset. The flywheel is a COTS part that is drilled to an FN2 press fit for the shaft. Attached to the shaft are the linkages that are waterjet.
 
@@ -72,7 +84,13 @@ The Driveshaft Assembly contains the rotary components of the system. A flywheel
 ![Burner](https://eliaswheatfall.github.io/StirlingEngineOne/assets/gascan.png){: .center-image width="600" }
 
 {: .subtext}
-Figure (9): Burner Assembly View
+Figure (12): Burner Assembly View
+
+
+![Frame](https://eliaswheatfall.github.io/StirlingEngineOne/assets/Exploded_Views_Page_3.png){: .center-image width="600" }
+
+{: .subtext}
+Figure (13): Burner Exploded View
 
 The burner assembly is a large advancement our team has made compared to most Stirling engine assemblies. In a typical system, a candle or jar containing isopropyl and rope produces a flame under the hot end. The temperature difference between the hot and cold piston is a huge limiting factor in the efficiency of a Stirling engine. To fix this we created a pressure vessel that houses our denatured  fuel. This burns much better than a candle, increasing our temperature difference. Additionally, before the fuel is burned it is wound around the cool to remove radiant heat from the hot end, increasing the pressure differential
 
